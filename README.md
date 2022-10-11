@@ -4,6 +4,7 @@ Everyone is welcome to share, upload, discuss and etc.
 
 - The way in which you must submit an exploit in `NVE` and rules!
 
+1. Prepare your report:
 ## Template for submitting:
 
 ```txt
@@ -28,3 +29,8 @@ STATUS: HIGH Vulnerability
 ## Proof and Exploit:
 
 ```
+2. Upload your report
+
+3. Wait for approval
+
+Good luck everyone
