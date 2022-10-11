@@ -1,9 +1,10 @@
-## NVE
-NVE is a nu11secur1ty vulnerability exposure, and everyone is welcome to deploy some issue that he is found. Everyone is welcome.
+## `NVE`
+What is `NVE` is a nu11secur1ty vulnerability exposure, and everyone is welcome to deploy some issue that he is found. 
+Everyone is welcome to share, upload, discuss and etc.
 
-The way which you must submit an exploit in `NVE`
+- The way in which you must submit an exploit in `NVE` and rules!
 
-## Templeate for submiting:
+## Template for submitting:
 
 ```txt
 ## Title: 
