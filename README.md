@@ -23,7 +23,7 @@ Everyone is welcome to share, upload, discuss and etc.
 
 STATUS: ...
 
-[+]Payload:
+[+] Exploit:
 ...
 
 ## Reproduce:
