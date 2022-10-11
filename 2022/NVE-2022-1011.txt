@@ -5,6 +5,7 @@
 ## Software: https://github.com/PuneethReddyHC/online-shopping-system-advanced/archive/refs/heads/master.zip
 ## Reference: https://github.com/PuneethReddyHC/online-shopping-system-advanced/issues/51
 
+## Description:
 The online-shopping-system-advanced-1.0 suffers from multiple SQLi
 The attacker can steal all information from the database of this system.
 Status: CRITICAL
