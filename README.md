@@ -11,25 +11,26 @@ Everyone is welcome to share, upload, discuss and etc.
 ## Template for submitting:
 
 ```txt
-## Title: 
-## Author: 
-## Date: 
-## Vendor: 
-## Software: 
-## Reference: 
+## Title: ...
+## Author: ...
+## Date: ...
+## Vendor: ...
+## Software: ...
+## Reference: ...
 
-## Description:
+## Description: 
+...
 
-
-STATUS: HIGH Vulnerability
+STATUS: ...
 
 [+]Payload:
-
+...
 
 ## Reproduce:
-
+...
 
 ## Proof and Exploit:
+...
 
 ```
 2. Upload your report
