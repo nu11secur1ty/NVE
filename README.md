@@ -2,7 +2,7 @@
 
 ![](https://github.com/nu11secur1ty/NVE/blob/main/Docs/NVE.png)
 
-What is `NVE` is a nu11secur1ty vulnerability exposure, and everyone is welcome to deploy some issue that he is found. 
+What is `NVE`? NVE is a nu11secur1ty vulnerability exposure, and everyone is welcome to deploy some issue that he is found. 
 Everyone is welcome to share, upload, discuss and etc.
 
 - The way in which you must submit an exploit in `NVE` and rules!
