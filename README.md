@@ -33,8 +33,10 @@ STATUS: ...
 ...
 
 ```
+## Sending your report by using `Pull Request`
 2. Upload your report
 
+## Checking and approval
 3. Wait for approval
 
-Good luck everyone
+- Good luck everyone
