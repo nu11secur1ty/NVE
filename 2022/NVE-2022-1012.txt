@@ -1,4 +1,4 @@
-## Title: Beauty-salon-2022 - RCE File Upload
+## Title: Beauty-salon-2022 - Web Shell-File Upload - RCE
 ## Author: nu11secur1ty
 ## Date: 10.12.2022
 ## Vendor: https://code4berry.com/projects/beautysalon.php
@@ -6,7 +6,7 @@
 ## Reference: https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012.txt
 
 ## Description:
-The Beauty-salon-2022 suffers from Web Shell file upload - RCE.
+The Beauty-salon-2022 suffers from Web Shell-File Upload - RCE.
 NOTE: The user permissions of this system are not working correctly.
 The attacker can use an already created account from someone who controls this system and he can upload a very malicious file by using this vulnerability, 
 or more precisely (no sanitizing of function for edit image), for whatever account, then he can execute it from anywhere on the external network.
