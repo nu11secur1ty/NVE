@@ -3,7 +3,7 @@
 ## Date: 10.12.2022
 ## Vendor: https://code4berry.com/projects/beautysalon.php
 ## Software: https://code4berry.com/project%20downloads/beautysalon_download.php
-## Reference: 
+## Reference: https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012.txt
 
 ## Description:
 The Beauty-salon-2022 suffers from Web Shell file upload - RCE.
