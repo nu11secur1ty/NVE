@@ -19,6 +19,9 @@ https://github.com/nu11secur1ty/PHP/tree/master/reverse-shell
 # Proof and Exploit:
 [href](https://streamable.com/ewdmoh)
 
+# m0e3:
+[href](https://www.nu11secur1ty.com/2022/10/beauty-salon-2022-web-shell-file-upload.html)
+
 System Administrator - Infrastructure Engineer
 Penetration Testing Engineer
 Exploit developer at https://packetstormsecurity.com/
