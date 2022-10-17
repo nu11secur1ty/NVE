@@ -33,7 +33,7 @@ STATUS: ...
 ...
 
 ```
-## Sending your report by creating a `Pull Request`
+## Sending your report by creating a `Pull Request` if you want, you are welcome all of you.
 2. Upload your report
 
 ## Checking and approval
