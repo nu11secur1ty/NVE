@@ -3,7 +3,7 @@
 ## Date: 10.12.2022
 ## Vendor: https://code4berry.com/projects/beautysalon.php
 ## Software: https://code4berry.com/project%20downloads/beautysalon_download.php
-## Reference: https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012.txt
+## Reference: https://github.com/nu11secur1ty/NVE/tree/NVE-master/2022/NVE-2022-1012
 
 ## Description:
 The parameter `userimage` from Beauty-salon-2022 suffers from Web Shell-File Upload - RCE.
@@ -105,11 +105,14 @@ print_r($files2);
 ?>
 ```
 
+![](https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012/Docs/Screenshot%202022-10-18%20112750.png)
+
+- In action
+
+![](https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012/Docs/RCE.gif)
+
 # Proof and Exploit:
 [href](https://streamable.com/ewdmoh)
-
-# m0e3:
-[href](https://www.nu11secur1ty.com/2022/10/beauty-salon-2022-web-shell-file-upload.html)
 
 
 System Administrator - Infrastructure Engineer
