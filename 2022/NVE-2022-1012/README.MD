@@ -91,6 +91,8 @@ Status: HIGH Vulnerability
 ```
 [+]Exploit-RCE:
 
+- Web server directory listing, after executing `exploit.php` in the browser.
+
 ```PHP
 <?php
 $dir    = '/';
