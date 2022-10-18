@@ -103,5 +103,9 @@ print_r($files2);
 ```
 ![](https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012/Docs/Screenshot%202022-10-18%20112750.png)
 
+- In action
+
+![](https://github.com/nu11secur1ty/NVE/blob/NVE-master/2022/NVE-2022-1012/Docs/RCE.gif)
+
 # Proof and Exploit:
 [href](https://streamable.com/ewdmoh)
