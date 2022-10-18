@@ -104,6 +104,3 @@ print_r($files2);
 
 # Proof and Exploit:
 [href](https://streamable.com/ewdmoh)
-
-# m0e3:
-[href](https://www.nu11secur1ty.com/2022/10/beauty-salon-2022-web-shell-file-upload.html)
